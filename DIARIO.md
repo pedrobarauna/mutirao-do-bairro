@@ -15,33 +15,6 @@ Se você usou um assistente de IA, registre. Uso registrado não tira ponto.
 
 ---
 
-## Modelo
-
-### Entrada N — <data e hora aproximada>
-
-**Etapa:** E?
-
-**O que eu estava fazendo:**
-
-**Mensagem exata (copiada, não digitada de memória):**
-
-```
-cole aqui
-```
-
-**O que eu esperava que acontecesse:**
-
-**O que eu tentei, em ordem:**
-
-1.
-2.
-
-**Como resolvi (ou onde ainda estou travado):**
-
-**Onde procurei:** (apostila / documentação / IA / colega — se IA, o que perguntei)
-
----
-
 ### Entrada 1 — 16/09/2026 — aproximadamente 17h
 
 **Etapa:** E1
